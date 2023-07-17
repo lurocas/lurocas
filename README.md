@@ -2,7 +2,9 @@
 
 Rookie pentester and security specialist
 
+
 Trying to learn as much as I can in security and hacking
+
 Documenting some of the tools I've found and challenges I've completed along the way
 
 <!---
